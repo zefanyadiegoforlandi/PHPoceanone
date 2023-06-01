@@ -171,7 +171,7 @@
         
         /* Gaya untuk baris header */
         th {
-            background-color: #06;
+            background-color: #0080fe;
             color: white;
         }
         
